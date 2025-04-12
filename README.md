@@ -1,7 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ### Hello 🌎, I'm Nova
-  - 🔭 I’m currently working on collecting vision-based Deep Learning designs/architectures to improve my future Deep Learning models
+  - 🔭 I’m currently working on collecting/creating vision-based Deep Learning designs/architectures to improve my future Deep Learning models
   - 🌱 I’m currently learning: AI, front-end, back-end and some low level programming
   - 💬 Ask me about **C/C++, Python, Html, Css, Javascript, Typescript, C#, .NET**
   - ⚡ Fun fact: I'm really good in FPS games
