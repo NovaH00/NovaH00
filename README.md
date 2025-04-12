@@ -9,7 +9,7 @@
 ------
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NovaH00&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NovaH00&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)]()
 
 <div align="center">
   <a href="https://github.com/NovaH00">
